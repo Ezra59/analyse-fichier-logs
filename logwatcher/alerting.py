@@ -7,7 +7,7 @@ def send_alert_email(ip):
     """
     sender_email = "demoutiezbenjamin22@gmail.com"
     receiver_email = "mini.mamout@gmail.com"
-    app_password = "gsai nxgu lwkl rwys"  # ⚠️ À stocker en variable d’environnement dans un projet pro
+    app_password = 
 
     msg = EmailMessage()
     msg["Subject"] = f"Alerte : activité suspecte détectée depuis {ip}"
