@@ -5,8 +5,8 @@ def send_alert_email(ip):
     """
     Envoie une alerte mail lorsqu'une IP dépasse le seuil
     """
-    sender_email = "demoutiezbenjamin22@gmail.com"
-    receiver_email = "mini.mamout@gmail.com"
+    sender_email = 
+    receiver_email = 
     app_password = 
 
     msg = EmailMessage()
